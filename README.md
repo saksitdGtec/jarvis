@@ -20,3 +20,5 @@ pip install PyAudio‑0.2.11‑cp38‑cp38‑win_amd64.whl
 PyAudio‑0.2.11‑cp39‑cp39‑win_amd64.whl
 PyAudio‑0.2.11‑cp39‑cp39‑win32.whl
 
+-ใช้งาน ต้องรอสัญญานเสียงแรกหยุดก่อน แล้วพูดใส่ mic จะได้ยินสัญญานเสียงอีกครั้ง jarvis ควรจะพูดออกมา
+
