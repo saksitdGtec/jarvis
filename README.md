@@ -1,5 +1,8 @@
 # jarvis
 * สร้าง ai ตอบโต้ตอบจากเสียงพูด
+
+py 3.9.6 64bit
+
 pip install SpeechRecognition
 pip install gTTS
 pip install playsound
