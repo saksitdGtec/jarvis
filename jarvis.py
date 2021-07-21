@@ -20,6 +20,11 @@ with sr.Microphone() as source:
         if text == "กี่โมงแล้ว":
             now = datetime.now()
             text = now.strftime("ขณะนี้เวลา%Hนาฬิกา%Mนาที%Sวินาที")  
+            
+        if text == "วันนี้เป็นยังไงบ้าง":
+            text="วันนี้ สบายดีค่ะ"
+            # if "ห้า" in text:
+            #     text="2 * 5 = 25  " + str(2*5)            
         
     except:
         text = "ขอโทษค่ะ"
