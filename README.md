@@ -25,7 +25,7 @@ PyAudio‑0.2.11‑cp39‑cp39‑win32.whl
 
 -ใช้งาน ต้องรอสัญญานเสียงแรกหยุดก่อน แล้วพูดใส่ mic จะได้ยินสัญญานเสียงอีกครั้ง jarvis ควรจะพูดออกมา
 
--whl คือ การzip ไฟล์ของ python คล้าย zip ของวินโดว์
+-.whl (The Wheel Binary Package Format 1.0)คือ การzip ไฟล์ของ python คือไฟล์ติดตั้งสำหรับใช้กระจายไฟล์และติดตั้งลงในระบบ จะมีอีกตัวคือ .egg แต่ไม่เป็นมาตราฐาน PEP เหมือน .whl
 ref: https://python3.wannaphong.com/2015/01/install-egg-whl-python.html
 
 เช่นติตตั้งโมดูล
