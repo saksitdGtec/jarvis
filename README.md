@@ -25,3 +25,6 @@ PyAudio‑0.2.11‑cp39‑cp39‑win32.whl
 -whl คือ การzip ไฟล์ของ python คล้าย zip ของวินโดว์
 ref: https://python3.wannaphong.com/2015/01/install-egg-whl-python.html
 
+เช่นติตตั้งโมดูล
+pip install PyAudio‑0.2.11‑cp39‑cp39‑win_amd64.whl
+
